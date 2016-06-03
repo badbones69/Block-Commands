@@ -1,0 +1,10 @@
+name: BlockCommands
+author: BadBones69
+main: me.BadBones69.BlockCommands.Main
+version: 1.0
+description: >
+             Set commands to blocks
+commands:
+  BlockCommands:
+    description: Block Commands basic command.
+    aliases: [bc, blockc, bcommand, bcommands, blockcommand]
